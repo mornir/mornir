@@ -6,18 +6,28 @@
 <h2 id="mycurrentstack">🍔 My current stack</h2>
 
 <ul>
-<li>Nuxt.js</li>
+  <li>Nuxt.js</li>
 
-<li>TailwindCSS</li>
+  <li>TailwindCSS</li>
 
-<li>Sanity.io</li>
+  <li>Sanity.io</li>
 
-<li>Netlify</li>
+  <li>Netlify</li>
 
-<li>Cypress.io</li>
+  <li>Cypress.io</li>
 </ul>
 
 <h2 id="mylatestblogpostst">📝 My latest blog posts ~ 我的最新博客文章</h2>
+ 
+<ul>
+  {{#articles}}
+    <li> <a href="{{canonical_url}}">{{title}}</a></li>
+  {{/articles}}
+</ul>
+
+{{#stooges}}
+<b>{{name}}</b>
+{{/stooges}}
 
 <p><em>coming soon</em> <br />
 https://github.com/mornir/mornir/issues/3</p>
