@@ -26,12 +26,8 @@
     <li> <a href="https:&#x2F;&#x2F;dev.to&#x2F;mornir&#x2F;nuxt-netlify-and-the-trailing-slash-3gge"><b>Nuxt, Netlify and the trailing slash</b></a><br/><i>Introduction   I recently noticed that by default Netlify redirects routes that don&#39;t end wi...</i></li>
     <li> <a href="https:&#x2F;&#x2F;dev.to&#x2F;mornir&#x2F;a-simpler-stack-my-experience-with-11ty-and-netlify-cms-346p"><b>A simpler stack: my experience with 11ty and Netlify CMS</b></a><br/><i>Intro   For a new project, I tried out the new and popular static site generator (SSG) 11ty...</i></li>
 </ul>
-
-
-<p><em>coming soon</em> <br />
-https://github.com/mornir/mornir/issues/3</p>
-
-<h2>🎮 Games I'm playing ~ 我正在打的游戏</h2>
+ 
+<h2>🎮 Games I'm currently playing ~ 我正在打的游戏</h2>
 
 <ul>
     <li><a href="https://store.steampowered.com/agecheck/app/594650/"><b>Hunt: Showdown</b></a></li>
@@ -41,12 +37,12 @@ https://github.com/mornir/mornir/issues/3</p>
     <li><a href="https://store.steampowered.com/agecheck/app/532210/"><b>Life is Strange 2</b></a></li>
 </ul>
 
-<h2>🎵 Songs I'm listening to ~ 我正在听的歌曲</h2>
+<h2>🎵 Songs I'm currently listening to ~ 我正在听的歌曲</h2>
 
 <p><em>coming soon</em> <br />
 https://github.com/mornir/mornir/issues/</p>
 
-<h2>📖 Book I'm reading ~ 我正在读的书</h2>
+<h2>📖 Book I'm currently reading ~ 我正在读的书</h2>
 
 <p><a href="https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past">Remembrance of Earth's Past</a> <br />
 <a href="https://baike.baidu.com/item/%E4%B8%89%E4%BD%93/5739303">三体系列</a></p>
