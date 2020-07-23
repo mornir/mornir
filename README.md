@@ -27,6 +27,10 @@
     <li> <a href="https:&#x2F;&#x2F;dev.to&#x2F;mornir&#x2F;a-simpler-stack-my-experience-with-11ty-and-netlify-cms-346p"><b>A simpler stack: my experience with 11ty and Netlify CMS</b></a><br/><i>Intro   For a new project, I tried out the new and popular static site generator (SSG) 11ty...</i></li>
 </ul>
 
+
+<p><em>coming soon</em> <br />
+https://github.com/mornir/mornir/issues/3</p>
+
 <h2>🎮 Games I'm playing ~ 我正在打的游戏</h2>
 
 <ul>
