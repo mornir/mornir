@@ -16,6 +16,7 @@ async function fetchGames() {
         key: process.env.STEAM_KEY,
         steamid: process.env.STEAM_ID,
         format: 'json',
+        count: 3,
       },
     }
   ).json()
