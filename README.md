@@ -29,13 +29,11 @@
  
 <h2>🎮 Games I'm currently playing ~ 我正在打的游戏</h2>
 
-<ul>
-    <li><a href="https://store.steampowered.com/agecheck/app/594650/"><b>Hunt: Showdown</b></a></li>
-    <li><a href="https://store.steampowered.com/agecheck/app/753640/"><b>Outer Wilds</b></a></li>
-    <li><a href="https://store.steampowered.com/agecheck/app/728880/"><b>Overcooked! 2</b></a></li>
-    <li><a href="https://store.steampowered.com/agecheck/app/1222700/"><b>A Way Out</b></a></li>
-    <li><a href="https://store.steampowered.com/agecheck/app/532210/"><b>Life is Strange 2</b></a></li>
-</ul>
+<p>
+ <a href="https://store.steampowered.com/agecheck/app/594650/"><img alt="Hunt: Showdown" title="Hunt: Showdown" src="http://media.steampowered.com/steamcommunity/public/images/apps/594650/7a7f693e439e96ad3d96d67d26bb7f7b96fe3271.jpg" /></a>
+ <a href="https://store.steampowered.com/agecheck/app/753640/"><img alt="Outer Wilds" title="Outer Wilds" src="http://media.steampowered.com/steamcommunity/public/images/apps/753640/4f303545d9d0748ecda6e5fb498aa0e912d275d7.jpg" /></a>
+ <a href="https://store.steampowered.com/agecheck/app/728880/"><img alt="Overcooked! 2" title="Overcooked! 2" src="http://media.steampowered.com/steamcommunity/public/images/apps/728880/9babb21950fe263bdd990e481cfa3704374e689f.jpg" /></a>
+</p>
 
 <h2>🎵 Songs I'm currently listening to ~ 我正在听的歌曲</h2>
 
