@@ -4,6 +4,16 @@ const fs = require('fs')
 const got = require('got')
 const MUSTACHE_MAIN_DIR = './main.mustache'
 
+const lastRefresh = new Date().toLocaleDateString('en-GB', {
+  weekday: 'long',
+  month: 'long',
+  day: 'numeric',
+  hour: 'numeric',
+  minute: 'numeric',
+  timeZoneName: 'short',
+  timeZone: 'Europe/Zurich',
+})
+
 const techs = [
   {
     name: 'Nuxt.js',
@@ -16,6 +26,12 @@ const techs = [
     website: 'https://tailwindcss.com',
     logo: 'tailwind-css',
     badgeColor: '38B2AC',
+  },
+  {
+    name: 'Sanity',
+    website: 'https://www.sanity.io',
+    logo: '',
+    badgeColor: 'fa1607',
   },
   {
     name: 'Cypress',
@@ -57,6 +73,7 @@ async function generateReadMe() {
       articles,
       games: games.response.games,
       techs,
+      lastRefresh,
     }
     fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
       if (err) throw err
