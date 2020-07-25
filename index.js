@@ -4,6 +4,21 @@ const fs = require('fs')
 const got = require('got')
 const MUSTACHE_MAIN_DIR = './main.mustache'
 
+const techs = [
+  {
+    name: 'Nuxt.js',
+    website: 'https://nuxtjs.org',
+    logo: 'nuxt.js',
+    badgeColor: '%00C58E',
+  },
+  {
+    name: 'Nuxt.js',
+    website: 'https://tailwindcss.com/',
+    logo: 'tailwind-css',
+    badgeColor: '%38B2AC',
+  },
+]
+
 async function fetchArticles() {
   return got('https://dev.to/api/articles?username=mornir&per_page=5').json()
 }
@@ -29,6 +44,7 @@ async function generateReadMe() {
     const view = {
       articles,
       games: games.response.games,
+      techs,
     }
     fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
       if (err) throw err
