@@ -12,21 +12,22 @@
   {{/techs}}
 </p> 
 
+
 <h2>📝 My latest blog posts ~ 我的最新博客文章</h2>
- 
 <ul>
   {{#articles}}
     <li> <a href="{{canonical_url}}"><b>{{title}}</b></a><br/><i>{{description}}</i></li>
   {{/articles}}
 </ul>
- 
+<p><i><a href="https://github.com/mornir/mornir/blob/master/index.js#L51">Fetched programmatically via the DEV API!</a></i></p>
+
 <h2>🎮 Games I'm currently playing ~ 我正在打的游戏</h2>
-<i><a href="https://github.com/mornir/mornir/blob/master/index.js#L40">Fetched programmatically via the Steam API!</a></i>
 <p>
   {{#games}}
  <a href="https://store.steampowered.com/agecheck/app/{{appid}}/"><img alt="{{name}}" title="{{name}}" src="http://media.steampowered.com/steamcommunity/public/images/apps/{{appid}}/{{img_logo_url}}.jpg" /></a>
   {{/games}}
 </p>
+<p><i><a href="https://github.com/mornir/mornir/blob/master/index.js#L56">Fetched programmatically via the Steam API!</a></i></p>
 
 <h2>📖 Book I'm currently reading ~ 我正在读的书</h2>
 
@@ -35,7 +36,7 @@
 
 
 ------------
-<p align="center">The lists of posts and games are refreshed <b>every two weeks</b> by a<a href="https://github.com/mornir/mornir/actions?query=workflow%3A%22README+build%22">GitHub Action </a> with a <a href="https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events">scheduled event</a>
+<p align="center">The lists of posts and games are refreshed <b>every two weeks</b> by a <a href="https://github.com/mornir/mornir/actions?query=workflow%3A%22README+build%22">GitHub Action </a> with a <a href="https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events">scheduled event</a>
 </br>Last refresh: {{lastRefresh}} <img src="https://github.com/mornir/mornir/workflows/README%20build/badge.svg" alt="README build"/>
 </p>
 
