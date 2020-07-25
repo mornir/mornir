@@ -9,13 +9,25 @@ const techs = [
     name: 'Nuxt.js',
     website: 'https://nuxtjs.org',
     logo: 'nuxt.js',
-    badgeColor: '%00C58E',
+    badgeColor: '00C58E',
   },
   {
-    name: 'Nuxt.js',
-    website: 'https://tailwindcss.com/',
+    name: 'Tailwind%20CSS',
+    website: 'https://tailwindcss.com',
     logo: 'tailwind-css',
-    badgeColor: '%38B2AC',
+    badgeColor: '38B2AC',
+  },
+  {
+    name: 'Cypress',
+    website: 'https://www.cypress.io',
+    logo: 'cypress',
+    badgeColor: '17202C',
+  },
+  {
+    name: 'Netlify',
+    website: 'https://www.netlify.com',
+    logo: 'netlify',
+    badgeColor: '00C7B7',
   },
 ]
 
