@@ -5,6 +5,13 @@
 
 <h2>🍔 My current stack</h2>
 
+<p>
+ <a href="https:&#x2F;&#x2F;nuxtjs.org"><img alt="nuxt.js"
+ src="https://img.shields.io/badge/Nuxt.js-%00C58E?style=for-the-badge&logoColor=white&logo=nuxt.js" /></a>
+ <a href="https:&#x2F;&#x2F;tailwindcss.com&#x2F;"><img alt="tailwind-css"
+ src="https://img.shields.io/badge/Nuxt.js-%38B2AC?style=for-the-badge&logoColor=white&logo=tailwind-css" /></a>
+</p> 
+
 <ul>
   <li>Nuxt.js</li>
 
@@ -34,11 +41,6 @@
  <a href="https://store.steampowered.com/agecheck/app/753640/"><img alt="Outer Wilds" title="Outer Wilds" src="http://media.steampowered.com/steamcommunity/public/images/apps/753640/4f303545d9d0748ecda6e5fb498aa0e912d275d7.jpg" /></a>
  <a href="https://store.steampowered.com/agecheck/app/728880/"><img alt="Overcooked! 2" title="Overcooked! 2" src="http://media.steampowered.com/steamcommunity/public/images/apps/728880/9babb21950fe263bdd990e481cfa3704374e689f.jpg" /></a>
 </p>
-
-<h2>🎵 Songs I'm currently listening to ~ 我正在听的歌曲</h2>
-
-<p><em>coming soon</em> <br />
-https://github.com/mornir/mornir/issues/2</p>
 
 <h2>📖 Book I'm currently reading ~ 我正在读的书</h2>
 
