@@ -21,11 +21,11 @@
 
 <h2>📝 My latest blog posts ~ 我的最新博客文章</h2>
 <ul>
-    <li> <a href="https:&#x2F;&#x2F;dev.to&#x2F;mornir&#x2F;faster-deploys-with-nuxt-22hi"><b>Faster deploys with Nuxt</b></a><br/><i>Reduce deploy time for content updates with Nuxt full static mode and Netlify</i></li>
     <li> <a href="https:&#x2F;&#x2F;dev.to&#x2F;mornir&#x2F;how-to-add-mapbox-to-your-nuxt-static-site-b59"><b>How to add Mapbox to your Nuxt static site</b></a><br/><i>Learn how to display a Mapbox map in a Nuxt static app using the official Mapbox GL JS library</i></li>
     <li> <a href="https:&#x2F;&#x2F;dev.to&#x2F;mornir&#x2F;truly-responsive-grid-with-css-grid-3c46"><b>Truly Responsive Grid with CSS Grid</b></a><br/><i>Create a responsive grid in one line with CSS Grid and the new min() CSS function</i></li>
     <li> <a href="https:&#x2F;&#x2F;dev.to&#x2F;mornir&#x2F;nuxt-netlify-and-the-trailing-slash-3gge"><b>Nuxt, Netlify and the trailing slash</b></a><br/><i>Add a trailing slash to your Nuxt static site to benefit from Netlify redirects</i></li>
     <li> <a href="https:&#x2F;&#x2F;dev.to&#x2F;mornir&#x2F;a-simpler-stack-my-experience-with-11ty-and-netlify-cms-346p"><b>A simpler stack: my experience with 11ty and Netlify CMS</b></a><br/><i>I share my experience building a website for a client with the static site generator 11ty and git-based CMS from Netlify</i></li>
+    <li> <a href="https:&#x2F;&#x2F;dev.to&#x2F;mornir&#x2F;add-tailwind-to-your-vue-app-5hea"><b>How to add Tailwind to your Vue app</b></a><br/><i>Updated for Tailwind v1.4  Adding Tailwind to your Vue app is easy. No need to use an intermediate Vu...</i></li>
 </ul>
 <p><i><a href="https://github.com/mornir/mornir/blob/master/index.js#L51">Fetched programmatically via the DEV API!</a></i></p>
 
@@ -45,7 +45,7 @@
 
 ------------
 <p align="center">The lists of posts and games are refreshed <b>every two weeks</b> by a <a href="https://github.com/mornir/mornir/actions?query=workflow%3A%22README+build%22">GitHub Action </a> with a <a href="https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events">scheduled event</a>
-</br>Last refresh: Saturday, July 25, 2:19 PM GMT+2 <img src="https://github.com/mornir/mornir/workflows/README%20build/badge.svg" alt="README build"/>
+</br>Last refresh: Saturday, August 1, 3:31 AM GMT+2 <img src="https://github.com/mornir/mornir/workflows/README%20build/badge.svg" alt="README build"/>
 </p>
 
 <p align="center"><i>README inspired by <a href="https://github.com/thmsgbrt/thmsgbrt">Thomas Guibert's</a></i></p>
