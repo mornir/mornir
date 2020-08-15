@@ -32,8 +32,6 @@
 <h2>🎮 Games I'm currently playing ~ 我正在打的游戏</h2>
 <p>
  <a href="https://store.steampowered.com/agecheck/app/594650/"><img alt="Hunt: Showdown" title="Hunt: Showdown" src="http://media.steampowered.com/steamcommunity/public/images/apps/594650/7a7f693e439e96ad3d96d67d26bb7f7b96fe3271.jpg" /></a>
- <a href="https://store.steampowered.com/agecheck/app/753640/"><img alt="Outer Wilds" title="Outer Wilds" src="http://media.steampowered.com/steamcommunity/public/images/apps/753640/4f303545d9d0748ecda6e5fb498aa0e912d275d7.jpg" /></a>
- <a href="https://store.steampowered.com/agecheck/app/728880/"><img alt="Overcooked! 2" title="Overcooked! 2" src="http://media.steampowered.com/steamcommunity/public/images/apps/728880/9babb21950fe263bdd990e481cfa3704374e689f.jpg" /></a>
 </p>
 <p><i><a href="https://github.com/mornir/mornir/blob/master/index.js#L56">Fetched programmatically via the Steam API!</a></i></p>
 
@@ -45,7 +43,7 @@
 
 ------------
 <p align="center">The lists of posts and games are refreshed <b>every two weeks</b> by a <a href="https://github.com/mornir/mornir/actions?query=workflow%3A%22README+build%22">GitHub Action </a> with a <a href="https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events">scheduled event</a>
-</br>Last refresh: Saturday, August 1, 3:31 AM GMT+2 <img src="https://github.com/mornir/mornir/workflows/README%20build/badge.svg" alt="README build"/>
+</br>Last refresh: Saturday, August 15, 3:31 AM GMT+2 <img src="https://github.com/mornir/mornir/workflows/README%20build/badge.svg" alt="README build"/>
 </p>
 
 <p align="center"><i>README inspired by <a href="https://github.com/thmsgbrt/thmsgbrt">Thomas Guibert's</a></i></p>
