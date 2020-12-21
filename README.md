@@ -1,7 +1,7 @@
 <h1>👋 Yello! 嘿!</h1>
 
-<p>I'm a <a href="https://full-stack.netlify.app/">full-stack front-end developer</a> from Zurich, Switzerland. <img src="./switzerland.svg" /><br />
-我是来自瑞士苏黎世的一名<a href="https://full-stack.netlify.app/">全栈前端</a>开发者。</p>
+<p>I'm a <a href="https://css-tricks.com/ooooops-i-guess-were-full-stack-developers-now/">full-stack front-end developer</a> from Zurich, Switzerland. <img src="./switzerland.svg" /><br />
+我是来自瑞士苏黎世的一名<a href="https://css-tricks.com/ooooops-i-guess-were-full-stack-developers-now/">全栈前端</a>开发者。</p>
 
 <h2>🍔 My current stack</h2>
 
@@ -31,8 +31,8 @@
 
 <h2>🎮 Games I'm currently playing ~ 我正在打的游戏</h2>
 <p>
- <a href="https://store.steampowered.com/agecheck/app/594650/"><img alt="Hunt: Showdown" title="Hunt: Showdown" src="http://media.steampowered.com/steamcommunity/public/images/apps/594650/7a7f693e439e96ad3d96d67d26bb7f7b96fe3271.jpg" /></a>
  <a href="https://store.steampowered.com/agecheck/app/1145360/"><img alt="Hades" title="Hades" src="http://media.steampowered.com/steamcommunity/public/images/apps/1145360/79416954db9fc5d5079c26839a77cd35b09e1608.jpg" /></a>
+ <a href="https://store.steampowered.com/agecheck/app/594650/"><img alt="Hunt: Showdown" title="Hunt: Showdown" src="http://media.steampowered.com/steamcommunity/public/images/apps/594650/7a7f693e439e96ad3d96d67d26bb7f7b96fe3271.jpg" /></a>
  <a href="https://store.steampowered.com/agecheck/app/266840/"><img alt="Age of Mythology: Extended Edition" title="Age of Mythology: Extended Edition" src="http://media.steampowered.com/steamcommunity/public/images/apps/266840/4b7d2e9491ecf24ebf34973d80ae1a0aa066edd5.jpg" /></a>
 </p>
 <p><i><a href="https://github.com/mornir/mornir/blob/master/index.js#L56">Fetched programmatically via the Steam API!</a></i></p>
@@ -40,7 +40,7 @@
 ------------
 <p align="center">
   The lists of posts and games are refreshed <b>every two weeks</b> by a <a href="https://github.com/mornir/mornir/actions?query=workflow%3A%22README+build%22">GitHub Action </a> with a <a href="https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events">scheduled event</a>
-  </br>Last refresh: Tuesday, December 15, 3:04 AM GMT+1 </br>
+  </br>Last refresh: Monday, December 21, 3:53 PM GMT+1 </br>
 </p>
 <p align="center">
   <img src="https://github.com/mornir/mornir/workflows/README%20build/badge.svg" alt="README build"/>
