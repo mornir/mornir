@@ -21,26 +21,26 @@
 
 <h2>📝 My latest blog posts ~ 我的最新博客文章</h2>
 <ul>
+    <li> <a href="https:&#x2F;&#x2F;dev.to&#x2F;mornir&#x2F;my-personal-experience-with-xstate-39kd"><b>My personal experience with XState</b></a><br/><i>My experience learning the XState library with React, Vue and TypeScript</i></li>
     <li> <a href="https:&#x2F;&#x2F;dev.to&#x2F;mornir&#x2F;change-the-favicon-color-in-dark-mode-3amj"><b>Change the favicon color in dark mode! 🤯</b></a><br/><i>Learn how to programmatically change the color of the favicon according to the user&#39;s dark&#x2F;light preference</i></li>
     <li> <a href="https:&#x2F;&#x2F;dev.to&#x2F;mornir&#x2F;building-my-first-web-extension-4h71"><b>Building my first web extension</b></a><br/><i>My experience building my first web extensions with Vue</i></li>
     <li> <a href="https:&#x2F;&#x2F;dev.to&#x2F;mornir&#x2F;how-to-handle-content-previews-from-sanity-in-nuxt-3127"><b>How to handle content previews from Sanity in Nuxt</b></a><br/><i>Use the Nuxt preview mode to let content editors preview their content on the production website from and inside the Sanity Studio.</i></li>
     <li> <a href="https:&#x2F;&#x2F;dev.to&#x2F;mornir&#x2F;how-to-add-mapbox-to-your-nuxt-static-site-b59"><b>How to add Mapbox to your Nuxt static site</b></a><br/><i>Learn how to display a Mapbox map in a Nuxt static app using the official Mapbox GL JS library</i></li>
-    <li> <a href="https:&#x2F;&#x2F;dev.to&#x2F;mornir&#x2F;truly-responsive-grid-with-css-grid-3c46"><b>Truly Responsive Grid with CSS Grid</b></a><br/><i>Create a responsive grid in one line with CSS Grid and the new min() CSS function</i></li>
 </ul>
 <p><i><a href="https://github.com/mornir/mornir/blob/master/index.js#L51">Fetched programmatically via the DEV API!</a></i></p>
 
 <h2>🎮 Games I'm currently playing ~ 我正在打的游戏</h2>
 <p>
- <a href="https://store.steampowered.com/agecheck/app/1082710/"><img alt="Bug Fables" title="Bug Fables" src="http://media.steampowered.com/steamcommunity/public/images/apps/1082710/721a780b8d3da9019b531f5db4a58668e494f7a5.jpg" /></a>
+ <a href="https://store.steampowered.com/agecheck/app/779340/"><img alt="Total War: THREE KINGDOMS" title="Total War: THREE KINGDOMS" src="http://media.steampowered.com/steamcommunity/public/images/apps/779340/a516d0e689242fa5f0be34de0a34b02ec7bf3f65.jpg" /></a>
+ <a href="https://store.steampowered.com/agecheck/app/594650/"><img alt="Hunt: Showdown" title="Hunt: Showdown" src="http://media.steampowered.com/steamcommunity/public/images/apps/594650/7a7f693e439e96ad3d96d67d26bb7f7b96fe3271.jpg" /></a>
  <a href="https://store.steampowered.com/agecheck/app/1145360/"><img alt="Hades" title="Hades" src="http://media.steampowered.com/steamcommunity/public/images/apps/1145360/79416954db9fc5d5079c26839a77cd35b09e1608.jpg" /></a>
- <a href="https://store.steampowered.com/agecheck/app/1172620/"><img alt="Sea of Thieves" title="Sea of Thieves" src="http://media.steampowered.com/steamcommunity/public/images/apps/1172620/ff316a62fbfcccc145d0a8724dabc74683eeb9dd.jpg" /></a>
 </p>
 <p><i><a href="https://github.com/mornir/mornir/blob/master/index.js#L56">Fetched programmatically via the Steam API!</a></i></p>
 
 ------------
 <p align="center">
   The lists of posts and games are refreshed <b>every two weeks</b> by a <a href="https://github.com/mornir/mornir/actions?query=workflow%3A%22README+build%22">GitHub Action </a> with a <a href="https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events">scheduled event</a>
-  </br>Last refresh: Friday, January 1, 3:28 AM GMT+1 </br>
+  </br>Last refresh: Friday, January 15, 3:52 AM GMT+1 </br>
 </p>
 <p align="center">
   <img src="https://github.com/mornir/mornir/workflows/README%20build/badge.svg" alt="README build"/>
