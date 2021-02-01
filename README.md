@@ -31,16 +31,16 @@
 
 <h2>🎮 Games I'm currently playing ~ 我正在打的游戏</h2>
 <p>
- <a href="https://store.steampowered.com/agecheck/app/779340/"><img alt="Total War: THREE KINGDOMS" title="Total War: THREE KINGDOMS" src="http://media.steampowered.com/steamcommunity/public/images/apps/779340/a516d0e689242fa5f0be34de0a34b02ec7bf3f65.jpg" /></a>
  <a href="https://store.steampowered.com/agecheck/app/594650/"><img alt="Hunt: Showdown" title="Hunt: Showdown" src="http://media.steampowered.com/steamcommunity/public/images/apps/594650/7a7f693e439e96ad3d96d67d26bb7f7b96fe3271.jpg" /></a>
  <a href="https://store.steampowered.com/agecheck/app/1145360/"><img alt="Hades" title="Hades" src="http://media.steampowered.com/steamcommunity/public/images/apps/1145360/79416954db9fc5d5079c26839a77cd35b09e1608.jpg" /></a>
+ <a href="https://store.steampowered.com/agecheck/app/1172620/"><img alt="Sea of Thieves" title="Sea of Thieves" src="http://media.steampowered.com/steamcommunity/public/images/apps/1172620/ff316a62fbfcccc145d0a8724dabc74683eeb9dd.jpg" /></a>
 </p>
 <p><i><a href="https://github.com/mornir/mornir/blob/master/index.js#L56">Fetched programmatically via the Steam API!</a></i></p>
 
 ------------
 <p align="center">
   The lists of posts and games are refreshed <b>every two weeks</b> by a <a href="https://github.com/mornir/mornir/actions?query=workflow%3A%22README+build%22">GitHub Action </a> with a <a href="https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events">scheduled event</a>
-  </br>Last refresh: Friday, January 15, 3:52 AM GMT+1 </br>
+  </br>Last refresh: Monday, February 1, 3:16 AM GMT+1 </br>
 </p>
 <p align="center">
   <img src="https://github.com/mornir/mornir/workflows/README%20build/badge.svg" alt="README build"/>
