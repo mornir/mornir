@@ -40,7 +40,7 @@
 ------------
 <p align="center">
   The lists of posts and games are refreshed <b>every two weeks</b> by a <a href="https://github.com/mornir/mornir/actions?query=workflow%3A%22README+build%22">GitHub Action </a> with a <a href="https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events">scheduled event</a>
-  </br>Last refresh: Wednesday, 26 May, 21:28 CEST </br>
+  </br>Last refresh: Wednesday, May 26, 9:30 PM GMT+2 </br>
 </p>
 <p align="center">
   <img src="https://github.com/mornir/mornir/workflows/README%20build/badge.svg" alt="README build"/>
