@@ -1,6 +1,6 @@
 <h1>👋 Yello! 嘿!</h1>
 
-<p>I'm a <a href="https://css-tricks.com/ooooops-i-guess-were-full-stack-developers-now/">full-stack front-end developer</a> from Zurich, Switzerland. <img src="./switzerland.svg" /><br />
+<p>I'm a <a href="https://css-tricks.com/ooooops-i-guess-were-full-stack-developers-now/">full-stack front-end developer</a> from Zurich, Switzerland. 🇨🇭<br />
 我是来自瑞士苏黎世的一名<a href="https://css-tricks.com/ooooops-i-guess-were-full-stack-developers-now/">全栈前端</a>开发者。</p>
 
 <h2>🍔 My current stack</h2>
@@ -31,6 +31,8 @@
 
 <h2>🎮 Games I'm currently playing ~ 我正在打的游戏</h2>
 <p>
+ <a href="https://store.steampowered.com/agecheck/app/594650/"><img alt="Hunt: Showdown" title="Hunt: Showdown" src="http://media.steampowered.com/steamcommunity/public/images/apps/594650/7a7f693e439e96ad3d96d67d26bb7f7b96fe3271.jpg" /></a>
+ <a href="https://store.steampowered.com/agecheck/app/552500/"><img alt="Warhammer: Vermintide 2" title="Warhammer: Vermintide 2" src="http://media.steampowered.com/steamcommunity/public/images/apps/552500/f11bbba8fb45091dc8ccc97e81b03ea8ea06b177.jpg" /></a>
  <a href="https://store.steampowered.com/agecheck/app/1172380/"><img alt="STAR WARS Jedi: Fallen Order™ " title="STAR WARS Jedi: Fallen Order™ " src="http://media.steampowered.com/steamcommunity/public/images/apps/1172380/c089970f23d5da32796420c7d83224435393413e.jpg" /></a>
 </p>
 <p><i><a href="https://github.com/mornir/mornir/blob/master/index.js#L56">Fetched programmatically via the Steam API!</a></i></p>
@@ -38,12 +40,11 @@
 ------------
 <p align="center">
   The lists of posts and games are refreshed <b>every two weeks</b> by a <a href="https://github.com/mornir/mornir/actions?query=workflow%3A%22README+build%22">GitHub Action </a> with a <a href="https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events">scheduled event</a>
-  </br>Last refresh: Saturday, May 15, 3:56 AM GMT+2 </br>
+  </br>Last refresh: Wednesday, 26 May, 21:28 CEST </br>
 </p>
 <p align="center">
   <img src="https://github.com/mornir/mornir/workflows/README%20build/badge.svg" alt="README build"/>
 </p>
 <p align="center">
-  <i>Swiss icon flag made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a></i><br />
   <i>README inspired by <a href="https://github.com/thmsgbrt/thmsgbrt">Thomas Guibert's</a></i>
 </p>
