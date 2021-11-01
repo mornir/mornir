@@ -31,7 +31,8 @@
 
 <h2>🎮 Games I'm currently playing ~ 我正在打的游戏</h2>
 <p>
- <a href="https://store.steampowered.com/agecheck/app/594650/"><img alt="Hunt: Showdown" title="Hunt: Showdown" src="http://media.steampowered.com/steamcommunity/public/images/apps/594650/7a7f693e439e96ad3d96d67d26bb7f7b96fe3271.jpg" /></a>
+ <a href="https://store.steampowered.com/agecheck/app/466560/"><img alt="Northgard" title="Northgard" src="http://media.steampowered.com/steamcommunity/public/images/apps/466560/e77a9dad1dbc9b93f69b03446b5305a04eadd6ef.jpg" /></a>
+ <a href="https://store.steampowered.com/agecheck/app/322330/"><img alt="Don&#39;t Starve Together" title="Don&#39;t Starve Together" src="http://media.steampowered.com/steamcommunity/public/images/apps/322330/fab2e3b2ec6d14c6fc3ccd1671e85f85d0bbd91e.jpg" /></a>
  <a href="https://store.steampowered.com/agecheck/app/266840/"><img alt="Age of Mythology: Extended Edition" title="Age of Mythology: Extended Edition" src="http://media.steampowered.com/steamcommunity/public/images/apps/266840/4b7d2e9491ecf24ebf34973d80ae1a0aa066edd5.jpg" /></a>
 </p>
 <p><i><a href="https://github.com/mornir/mornir/blob/master/index.js#L56">Fetched programmatically via the Steam API!</a></i></p>
@@ -39,7 +40,7 @@
 ------------
 <p align="center">
   The lists of posts and games are refreshed <b>every two weeks</b> by a <a href="https://github.com/mornir/mornir/actions?query=workflow%3A%22README+build%22">GitHub Action </a> with a <a href="https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events">scheduled event</a>
-  </br>Last refresh: Friday, October 15, 4:11 AM GMT+2 </br>
+  </br>Last refresh: Monday, November 1, 3:11 AM GMT+1 </br>
 </p>
 <p align="center">
   <img src="https://github.com/mornir/mornir/workflows/README%20build/badge.svg" alt="README build"/>
