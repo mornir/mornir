@@ -31,14 +31,14 @@
 
 <h2>🎮 Games I'm currently playing ~ 我正在打的游戏</h2>
 <p>
- <a href="https://store.steampowered.com/agecheck/app/466560/"><img alt="Northgard" title="Northgard" src="http://media.steampowered.com/steamcommunity/public/images/apps/466560/e77a9dad1dbc9b93f69b03446b5305a04eadd6ef.jpg" /></a>
+ <a href="https://store.steampowered.com/agecheck/app/745920/"><img alt="Temtem" title="Temtem" src="http://media.steampowered.com/steamcommunity/public/images/apps/745920/29e2f72a2fe9abc833def8b33305604ac032ba0f.jpg" /></a>
 </p>
 <p><i><a href="https://github.com/mornir/mornir/blob/master/index.js#L56">Fetched programmatically via the Steam API!</a></i></p>
 
 ------------
 <p align="center">
   The lists of posts and games are refreshed <b>every two weeks</b> by a <a href="https://github.com/mornir/mornir/actions?query=workflow%3A%22README+build%22">GitHub Action </a> with a <a href="https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events">scheduled event</a>
-  </br>Last refresh: Tuesday, February 1, 3:11 AM GMT+1 </br>
+  </br>Last refresh: Tuesday, February 15, 11:33 AM GMT+1 </br>
 </p>
 <p align="center">
   <img src="https://github.com/mornir/mornir/workflows/README%20build/badge.svg" alt="README build"/>
