@@ -16,8 +16,7 @@
  src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logoColor=white&logo=cypress" /></a>
  <a href="https:&#x2F;&#x2F;www.netlify.com"><img alt="netlify"
  src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logoColor=white&logo=netlify" /></a>
-</p> 
-
+</p>
 
 <h2>📝 My latest blog posts ~ 我的最新博客文章</h2>
 <ul>
@@ -37,7 +36,8 @@
 </p>
 <p><i><a href="https://github.com/mornir/mornir/blob/master/index.js#L56">Fetched programmatically via the Steam API!</a></i></p>
 
-------------
+---
+
 <p align="center">
   The lists of posts and games are refreshed <b>every two weeks</b> by a <a href="https://github.com/mornir/mornir/actions?query=workflow%3A%22README+build%22">GitHub Action </a> with a <a href="https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events">scheduled event</a>
   </br>Last refresh: Saturday, 2 April, 11:30 CEST </br>
