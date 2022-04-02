@@ -16,7 +16,8 @@
  src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logoColor=white&logo=cypress" /></a>
  <a href="https:&#x2F;&#x2F;www.netlify.com"><img alt="netlify"
  src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logoColor=white&logo=netlify" /></a>
-</p>
+</p> 
+
 
 <h2>📝 My latest blog posts ~ 我的最新博客文章</h2>
 <ul>
@@ -30,17 +31,16 @@
 
 <h2>🎮 Games I'm currently playing ~ 我正在打的游戏</h2>
 <p>
- <a href="https://store.steampowered.com/agecheck/app/745920/"><img alt="Temtem" title="Temtem" src="https://cdn.akamai.steamstatic.com/steam/apps/745920/header.jpg" /></a>
- <a href="https://store.steampowered.com/agecheck/app/466560/"><img alt="Northgard" title="Northgard" src="https://cdn.akamai.steamstatic.com/steam/apps/466560/header.jpg" /></a>
- <a href="https://store.steampowered.com/agecheck/app/699170/"><img alt="Fell Seal: Arbiter&#39;s Mark" title="Fell Seal: Arbiter&#39;s Mark" src="https://cdn.akamai.steamstatic.com/steam/apps/699170/header.jpg" /></a>
+ <a href="https://store.steampowered.com/agecheck/app/745920/"><img alt="Temtem" title="Temtem" src="https://cdn.akamai.steamstatic.com/steam/apps/745920/header.jpg" width="270" /></a>
+ <a href="https://store.steampowered.com/agecheck/app/466560/"><img alt="Northgard" title="Northgard" src="https://cdn.akamai.steamstatic.com/steam/apps/466560/header.jpg" width="270" /></a>
+ <a href="https://store.steampowered.com/agecheck/app/699170/"><img alt="Fell Seal: Arbiter&#39;s Mark" title="Fell Seal: Arbiter&#39;s Mark" src="https://cdn.akamai.steamstatic.com/steam/apps/699170/header.jpg" width="270" /></a>
 </p>
 <p><i><a href="https://github.com/mornir/mornir/blob/master/index.js#L56">Fetched programmatically via the Steam API!</a></i></p>
 
----
-
+------------
 <p align="center">
   The lists of posts and games are refreshed <b>every two weeks</b> by a <a href="https://github.com/mornir/mornir/actions?query=workflow%3A%22README+build%22">GitHub Action </a> with a <a href="https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events">scheduled event</a>
-  </br>Last refresh: Saturday, 2 April, 11:30 CEST </br>
+  </br>Last refresh: Saturday, April 2, 11:38 AM GMT+2 </br>
 </p>
 <p align="center">
   <img src="https://github.com/mornir/mornir/workflows/README%20build/badge.svg" alt="README build"/>
