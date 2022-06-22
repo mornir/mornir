@@ -20,7 +20,7 @@
   "homepage": "https://github.com/mornir/mornir#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "got": "^11.5.1",
+    "got": "^11.8.5",
     "mustache": "^4.0.1"
   }
 }
