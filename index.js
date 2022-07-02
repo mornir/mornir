@@ -1,7 +1,9 @@
-require('dotenv').config()
-const Mustache = require('mustache')
-const fs = require('fs')
-const got = require('got')
+import * as dotenv from 'dotenv'
+dotenv.config()
+import Mustache from 'mustache'
+import { readFileSync, writeFileSync } from 'node:fs'
+import got from 'got'
+
 const MUSTACHE_MAIN_DIR = './main.mustache'
 
 const lastRefresh = new Date().toLocaleDateString('en-GB', {
@@ -75,11 +77,9 @@ async function generateReadMe() {
       techs,
       lastRefresh,
     }
-    fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
-      if (err) throw err
-      const output = Mustache.render(data.toString(), view)
-      fs.writeFileSync('README.md', output)
-    })
+    const content = readFileSync(MUSTACHE_MAIN_DIR)
+    const output = Mustache.render(content.toString(), view)
+    writeFileSync('README.md', output)
   } catch (error) {
     console.error(error)
   }
