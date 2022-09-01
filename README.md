@@ -29,10 +29,24 @@
 </ul>
 <p><i><a href="https://github.com/mornir/mornir/blob/master/index.js#L51">Fetched programmatically via the DEV API!</a></i></p>
 
+<h2>🎮 Games I'm currently playing ~ 我正在打的游戏</h2>
+<p>
+ <a href="https://store.steampowered.com/agecheck/app/745920/"><img alt="Temtem" title="Temtem" src="https://cdn.akamai.steamstatic.com/steam/apps/745920/header.jpg" width="270" /></a>
+ <a href="https://store.steampowered.com/agecheck/app/594650/"><img alt="Hunt: Showdown" title="Hunt: Showdown" src="https://cdn.akamai.steamstatic.com/steam/apps/594650/header.jpg" width="270" /></a>
+</p>
+<p><i><a href="https://github.com/mornir/mornir/blob/master/index.js#L56">Fetched programmatically via the Steam API!</a></i></p>
+
+<h2>🎮 Games I'm currently playing ~ 我正在打的游戏</h2>
+<p>
+ <a href="https://store.steampowered.com/agecheck/app/745920/"><img alt="Temtem" title="Temtem" src="https://cdn.akamai.steamstatic.com/steam/apps/745920/header.jpg" width="270" /></a>
+ <a href="https://store.steampowered.com/agecheck/app/594650/"><img alt="Hunt: Showdown" title="Hunt: Showdown" src="https://cdn.akamai.steamstatic.com/steam/apps/594650/header.jpg" width="270" /></a>
+</p>
+<p><i><a href="https://github.com/mornir/mornir/blob/master/index.js#L56">Fetched programmatically via the Steam API!</a></i></p>
+
 ------------
 <p align="center">
   The lists of posts and games are refreshed <b>every two weeks</b> by a <a href="https://github.com/mornir/mornir/actions?query=workflow%3A%22README+build%22">GitHub Action </a> with a <a href="https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events">scheduled event</a>
-  </br>Last refresh: Monday, 15 August at 04:14 CEST </br>
+  </br>Last refresh: Thursday, 1 September at 04:17 CEST </br>
 </p>
 <p align="center">
   <img src="https://github.com/mornir/mornir/workflows/README%20build/badge.svg" alt="README build"/>
