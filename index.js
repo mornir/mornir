@@ -69,14 +69,18 @@ async function fetchGames() {
 
 async function generateReadMe() {
   try {
-    const [articles, games] = await Promise.all([fetchArticles(), fetchGames()])
+    const [articles, steam] = await Promise.all([fetchArticles(), fetchGames()])
+
+    const games = steam.response.games
 
     const view = {
       articles,
-      games: games.response.games,
+      games,
+      showGames: !!games.length,
       techs,
       lastRefresh,
     }
+
     const content = readFileSync(MUSTACHE_MAIN_DIR)
     const output = Mustache.render(content.toString(), view)
     writeFileSync('README.md', output)
